@@ -4,12 +4,13 @@
     height: 10000px;
     background:#eeeeee
 }
+
 header {
     width: 100%;
     height: 50px;
     background: #dddddd;
     text-align: center;
-}
+  }
 nav, aside { background: #dddddd;
       width: 100px;
       float: left;
@@ -26,3 +27,4 @@ article {
     #page-footer {
    clear:left;
     background:#dddddd;}
+.test {text-align: center}
